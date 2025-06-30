@@ -54,3 +54,5 @@ View the **full project** on LinkedIn:
 - Add time-based analysis, such as monthly or quarterly revenue comparisons.
 - Implement **predictive analytics** to forecast trends based on historical data.
 - Introduce a more detailed **data cleaning pipeline** with advanced transformation techniques.
+## 📑 **License**
+This project is for educational and portfolio purposes only. The data used is synthetic and not meant for commercial use. You are free to use the content for personal and learning purposes under the **MIT License**.
